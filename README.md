@@ -2,6 +2,9 @@
 
 Leaflet.CoordinatesList is a simple Leaflet plugin that shows a list of coordinates as an overlay of the map. 
 
+![Leaflet.CoordinatesList List Box Sample](https://i.imgur.com/e9U5z3g.png "Leaflet.CoordinatesList List Box")
+
+
 ## Using the Coordinates List control
 
 In order to display the list box, insert this to your webpage.
